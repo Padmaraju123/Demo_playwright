@@ -1,0 +1,22 @@
+{
+  "NewUser":[
+
+    {"username": "padmaraju",
+      "email_id": "padmaraju084@gmail.com",
+      "password":"AutomationPractice123@@",
+      "month" : "February",
+      "date" : "9",
+      "year": "1998",
+      "first_name": "Padmaraju",
+      "last_name" : "Siddanatham",
+      "company": "XYZ",
+      "address": "8-472 Gandhi nagar",
+      "country": "India",
+      "state": "Andhra Pradesh",
+      "City": "Anantapur",
+      "Pincode": "515671",
+      "Mobile No":"8142845339"}
+
+  ]
+}
+
